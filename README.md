@@ -11,21 +11,20 @@
 
 My Skills
 
-    Programming Languages
+
+ Programming Languages
   -C++
   -JAVA
   -C
   -python
-	
 
-    Web Development
+Web Development
     -HTML
     -CSS
     -JavaScript
     -Bootstrap
 		
-
-    Machine Learning and Data Science
+Machine Learning and Data Science
     -Numpy
     -Panda
     -ScikitLearn
