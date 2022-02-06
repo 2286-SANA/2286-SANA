@@ -5,7 +5,40 @@
 - �B.Tech Computer Science and Engineering Student
 - 🌱 I’m currently learning ...Android Development
 -  Interested in Web Development and Machine Learing
-- Favourite Languages are C++ and JAVA
 
-- ⚡ Fun fact: ...My Smartness lies in my Laziness
+- ⚡ Fun fact: ...My Smartness lies in my Laziness😴
 -->
+
+
+
+
+My GitHub Status
+
+SAfreen :) SAfreen's GitHub Stats
+
+My Skills
+
+    Programming Languages
+
+	C++
+  JAVA
+  C
+  python
+	
+
+    Web Development
+
+		HTML
+    CSS
+    JavaScript
+    Bootstrap
+		
+
+    Machine Learning and Data Science
+
+		Numpy
+    Panda
+    ScikitLearn
+
+
+
