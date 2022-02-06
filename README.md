@@ -9,36 +9,26 @@
 - ⚡ Fun fact: ...My Smartness lies in my Laziness😴
 -->
 
-
-
-
-My GitHub Status
-
-SAfreen :) SAfreen's GitHub Stats
-
 My Skills
 
     Programming Languages
-
-	C++
-  JAVA
-  C
-  python
+  -C++
+  -JAVA
+  -C
+  -python
 	
 
     Web Development
-
-		HTML
-    CSS
-    JavaScript
-    Bootstrap
+    -HTML
+    -CSS
+    -JavaScript
+    -Bootstrap
 		
 
     Machine Learning and Data Science
-
-		Numpy
-    Panda
-    ScikitLearn
+    -Numpy
+    -Panda
+    -ScikitLearn
 
 
 
