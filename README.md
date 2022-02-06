@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**2286-SANA/README.md
-
-Here are some ideas to get you started:
+2286-SANA/README.md
 
 - �B.Tech Computer Science and Engineering Student
 - 🌱 I’m currently learning ...Android Development
